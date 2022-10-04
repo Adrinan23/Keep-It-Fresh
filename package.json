@@ -1,0 +1,22 @@
+{
+  "name": "keep-it-fresh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrinan23/Keep-It-Fresh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adrinan23/Keep-It-Fresh/issues"
+  },
+  "homepage": "https://github.com/Adrinan23/Keep-It-Fresh#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
